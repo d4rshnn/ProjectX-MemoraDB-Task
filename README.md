@@ -91,9 +91,6 @@ Open terminal inside the project folder and run:
 ```bash
 g++ main.cpp student.cpp -o memoradb
 ```
-```bash
-memoradb
-```
 
 ---
 
